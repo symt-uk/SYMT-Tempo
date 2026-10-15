@@ -1,0 +1,21 @@
+SYMT TEMPO COMMUNITY SOURCE-AVAILABLE LICENCE — VERSION 1.0 (DRAFT)
+Copyright © 2026 SYMT Limited. All rights reserved.
+https://www.symt.co.uk
+
+1. GRANT. Subject to these terms, SYMT Limited grants an individual a limited, non-exclusive, non-transferable, royalty-free permission to download, inspect, run and modify this software and its source code on their own devices solely for personal, non-commercial use, and to submit proposed changes to SYMT Limited through this project's official contribution channels.
+
+2. RESTRICTIONS. Except for submitting contributions to the project, you may not distribute copies, publish modified builds, sublicense, sell, offer as a service, or use this software for any business, employer, client, paid or other commercial purpose without SYMT Limited's prior written permission. Public source visibility alone does not grant these rights. You must preserve copyright and licence notices in permitted personal copies.
+
+3. BRANDING. SYMT, SYMT Tempo, company logos, globe artwork, product icons derived from company marks, and related trade dress are reserved marks/branding of SYMT Limited. Bundled branding is made available solely to identify the official application in permitted personal use and to review/contribute to this project. No independent licence to reuse or modify the branding, create endorsement claims, or distribute branded forks is granted. No claim of registered trademark status is made.
+
+4. CONTRIBUTIONS. Submission of a pull request does not guarantee acceptance. By submitting a contribution, you confirm you have the right to submit it, and grant SYMT Limited a perpetual, worldwide, non-exclusive, royalty-free, irrevocable licence to use, reproduce, modify, sublicense and distribute that contribution, including commercially, as part of this project or other SYMT products. You retain copyright to your original contribution. Do not submit third-party code unless its licensing has been cleared.
+
+5. DISCLAIMER. THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. TIME RECORDS AND EXPORTS MUST BE VERIFIED BEFORE USE FOR BILLING, PAYROLL OR COMPLIANCE. KEEP INDEPENDENT BACKUPS.
+
+6. LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SYMT LIMITED IS NOT LIABLE FOR INDIRECT OR CONSEQUENTIAL LOSS, LOST PROFITS, BUSINESS INTERRUPTION OR DATA LOSS ARISING FROM THE SOFTWARE. NOTHING HERE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED, INCLUDING FOR FRAUD OR DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE.
+
+7. TERMINATION. Permission under this licence ends if you materially breach these terms. Rights that by nature survive termination (including copyright ownership, disclaimers and contribution grants) remain effective.
+
+8. OTHER RIGHTS. Nothing in this licence limits mandatory statutory rights. For commercial permissions contact SYMT Limited via https://www.symt.co.uk.
+
+This custom source-available licence is not an OSI-approved open-source licence. Its wording is a draft and should be reviewed by a qualified legal professional before public release.
